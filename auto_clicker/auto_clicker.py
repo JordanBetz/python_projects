@@ -64,3 +64,4 @@ class ClickMouse(threading.Thread):
 if __name__ == "__main__":
     auto_clicker = ClickMouse()
     auto_clicker.run()
+    
