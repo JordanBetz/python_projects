@@ -19,6 +19,8 @@ def write_file(keys):
             k = str(key).replace("'", "")
             f.write(k)
             f.write(' ')
+
+
             
 def on_release(key):
     print('{0} released'.format(key))
