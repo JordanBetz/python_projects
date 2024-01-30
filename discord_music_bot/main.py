@@ -88,4 +88,4 @@ async def disconnect(interaction : nextcord.Interaction):
     else:
         await interaction.response.send_message("The queue is empty!")
 
-bot.run('MTIwMTUzMDg5ODk0MDY5NDUzOA.G-7M_5.E87hv5FLJiOEO980mrLdMWm6GliMngxOF7IIbw')
+bot.run('')
